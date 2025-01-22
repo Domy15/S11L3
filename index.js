@@ -10,7 +10,7 @@ any
 unknown */
 //Esercizio 2
 //2) Crea tre variabili tipizzate: una stringa con il tuo nome, un numero con la tua età, e un booleano che indica se stai studiando TypeScript.
-var myName = "Domenico";
+var myName = 'Domenico';
 var myAge = 21;
 var imStudyingTypescript = true;
 //Esercizio 3
